@@ -47,7 +47,6 @@
             android:orientation="vertical"
             android:gravity="center_horizontal">
 
-            <!-- Imagen 1: Delfín Rosado -->
             <ImageView
                 android:id="@+id/imageView1"
                 android:layout_width="252dp"
@@ -58,7 +57,6 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/delfinrosado" />
 
-            <!-- Imagen 2: Ejemplo de otra imagen -->
             <ImageView
                 android:id="@+id/imageView2"
                 android:layout_width="250dp"
@@ -69,7 +67,6 @@
                 android:background="@drawable/rounded_corners"
                 android:clipToOutline="true"/>
 
-            <!-- Imagen 3: Ejemplo de otra imagen -->
             <ImageView
                 android:id="@+id/imageView3"
                 android:layout_width="245dp"
@@ -102,6 +99,26 @@
 
             <ImageView
                 android:id="@+id/imageView6"
+                android:layout_width="245dp"
+                android:layout_height="150dp"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/cauca"
+                android:background="@drawable/rounded_corners"
+                android:clipToOutline="true"/>
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="245dp"
+                android:layout_height="150dp"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/amanzonas"
+                android:background="@drawable/rounded_corners"
+                android:clipToOutline="true"/>
+
+            <ImageView
+                android:id="@+id/imageView8"
                 android:layout_width="245dp"
                 android:layout_height="150dp"
                 android:layout_margin="8dp"

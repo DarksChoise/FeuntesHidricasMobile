@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Registrar\nInformación"
+        android:text="Agregar\nInformación"
         android:textColor="@color/black"
         android:textSize="26sp"
         android:textStyle="bold"
@@ -85,7 +85,7 @@
         android:layout_height="61dp"
         android:layout_marginTop="40dp"
         android:backgroundTint="#E29E32"
-        android:text="Registrar"
+        android:text="Crear"
         android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -166,7 +166,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.44" />
+        app:layout_constraintVertical_bias="0.437" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
